@@ -1,0 +1,19 @@
+{
+  "name": "samsung-v2-remote",
+  "version": "1.0.0",
+  "description": "Remote for the Samsung SmartView",
+  "main": "index.js",
+  "scripts": {
+    "test": "text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkhduracell/samsung-v2-remote.git"
+  },
+  "author": "Filip Lindqvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkhduracell/samsung-v2-remote/issues"
+  },
+  "homepage": "https://github.com/tkhduracell/samsung-v2-remote#readme"
+}
